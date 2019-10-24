@@ -1,4 +1,4 @@
-# Some trip
+# Some tips for the vim and the plugin
 
 # Vim
 ## Upgrade to 8.0
