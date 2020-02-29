@@ -1,2 +1,4 @@
 "You can specify the default bundles for your fork using.vimrc.before.forkfile. Here is how to create an example.vimrc.before.forkfile in a fork repo for the default bundles.
-let g:spf13_bundle_groups=['general', 'programming', 'misc', 'youcompleteme']
+"refer:
+"https://github.com/taxilian/spf13-vim#spf13-vim--taxilians-fork-of-steve-francias-vim-distribution
+let g:spf13_bundle_groups=['general', 'programming', 'misc']
